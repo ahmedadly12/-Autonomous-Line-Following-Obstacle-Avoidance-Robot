@@ -1,4 +1,5 @@
 # Autonomous Line-Following Robot with Dynamic Obstacle Avoidance
+![image](https://github.com/user-attachments/assets/7086e875-b5cf-4398-8ec1-8c87e2e09df8)
 
 
 ## Project Overview
